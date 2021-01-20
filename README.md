@@ -1,6 +1,6 @@
 # NeuralQA Demo: Question Answering with BERT Models
 
-NeuralQA is a prebuilt Python library that provides an easy to use API and visual interface for end-to-end extractive question answering (passage retrieval, query expansion, document reading, model explanation), on large datasets with BERT. This repository provides sample code demonstrating how to deploy NeuralQA as an application running on Cloudera Machine Learning (CML).
+NeuralQA is a prebuilt Python library that provides an easy to use API and visual interface for end-to-end extractive question answering (passage retrieval, query expansion, document reading, model explanation) on large datasets with BERT. This repository provides sample code demonstrating how to deploy NeuralQA as an application running on Cloudera Machine Learning (CML).
 
 > To learn more about the NeuralQA library visit the [Github repo](https://github.com/victordibia/neuralqa) and for more information on the techniques behind extractive question answering, check out our blog series [FF14 Automated Question Answering](https://qa.fastforwardlabs.com/) 
 
