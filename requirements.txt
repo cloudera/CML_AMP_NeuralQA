@@ -1,3 +1,1 @@
-torch<2.0
-neuralqa==0.0.31a0
-transformers==3.0.2
+neuralqa
